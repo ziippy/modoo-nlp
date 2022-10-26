@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+*/__pycache__/*
+~
+*/~/*
+venv
+*/venv/*
+*.h5
+checkpoints/*
+checkpoint/*
+_mecab
+*/_mecab/*
+data
+*/data/*
