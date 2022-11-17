@@ -13,3 +13,5 @@ _mecab
 */_mecab/*
 data
 */data/*
+word_embedding
+*/word_embedding/*
