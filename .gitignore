@@ -17,3 +17,7 @@ word_embedding
 */word_embedding/*
 weat
 */weat/*
+*.hdf5
+*.memmap
+*.model
+*.vocab
