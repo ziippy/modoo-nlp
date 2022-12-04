@@ -21,3 +21,4 @@ weat
 *.memmap
 *.model
 *.vocab
+logs
